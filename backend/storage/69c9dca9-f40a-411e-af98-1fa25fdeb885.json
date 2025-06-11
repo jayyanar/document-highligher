@@ -1,0 +1,29 @@
+{
+  "transaction_id": "69c9dca9-f40a-411e-af98-1fa25fdeb885",
+  "status": "failed",
+  "metadata": {
+    "filename": "LoanDisclosure.pdf",
+    "file_size": 62429,
+    "document_type": "pdf",
+    "page_count": 1,
+    "upload_timestamp": "2025-06-10 13:07:42.637344",
+    "processing_start": null,
+    "processing_end": null,
+    "ocr_languages": [
+      "en"
+    ],
+    "ocr_models_used": [
+      "tesseract"
+    ]
+  },
+  "extracted_elements": [],
+  "raw_text": null,
+  "structured_data": null,
+  "error_message": null,
+  "processing_log": [
+    "Started processing: 2025-06-10 13:07:42.637614",
+    "2025-06-10 13:07:43.322665: name 'datetime' is not defined"
+  ],
+  "created_at": "2025-06-10 13:07:42.637653",
+  "updated_at": "2025-06-10 13:07:43.322661"
+}

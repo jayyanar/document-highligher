@@ -1,0 +1,45 @@
+{
+  "transaction_id": "232dfea0-be76-4b3f-8fec-bb2249bc2975",
+  "status": "completed",
+  "metadata": {
+    "filename": "Screenshot 2025-06-10 at 8.23.53\u202fPM.png",
+    "file_size": 280649,
+    "document_type": "png",
+    "page_count": 1,
+    "upload_timestamp": "2025-06-10 16:03:23.880955",
+    "processing_start": null,
+    "processing_end": null,
+    "ocr_languages": [
+      "en"
+    ],
+    "ocr_models_used": [
+      "tesseract"
+    ]
+  },
+  "extracted_elements": [],
+  "raw_text": "",
+  "structured_data": {
+    "summary": {
+      "total_elements": 0,
+      "pages": 1,
+      "text_elements": 0,
+      "table_elements": 0,
+      "validated_elements": 0
+    },
+    "elements_by_page": {}
+  },
+  "error_message": null,
+  "processing_log": [
+    "Started parsing: 2025-06-10 16:03:23.593373",
+    "Parsed 0 elements",
+    "Started structuring: 2025-06-10 16:03:23.881117",
+    "Structured into 0 elements",
+    "Started validation: 2025-06-10 16:03:26.204596",
+    "Validated 0 elements",
+    "Started highlighting: 2025-06-10 16:03:26.205539",
+    "Created visual highlights",
+    "Started storing: 2025-06-10 16:03:26.206104"
+  ],
+  "created_at": "2025-06-10 16:03:26.207596",
+  "updated_at": "2025-06-10 16:03:26.207569"
+}
